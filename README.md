@@ -1,2 +1,17 @@
-# PMR_Scoring
-Code of final essay.
+---
+title: 使用概率方法处理得分数据
+date: 2019/7/28 11:01:00
+body: [article]
+description: "&emsp;&emsp;本文简述了笔者使用概率方法处理同学间的打分数据。最终建立了一个能够输出权衡后的分数的模型。"
+category:
+- 技术文档
+tags:
+- 机器学习
+- 概率论
+---
+
+## 写在前面
+
+## 数据预处理
+
+## 个人打分偏差值回归
